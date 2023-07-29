@@ -1,0 +1,123 @@
+
+  .t {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.5)), url(https://assets.nflxext.com/ffe/siteui/vlv3/d7af077c-af5a-4055-8f9a-740a43588583/95bae10c-9773-4447-af4e-612a244231bd/IN-en-20230717-popsignuptwoweeks-perspective_alpha_website_small.jpg );
+  }
+
+  .d {
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    flex-direction: column;
+  }
+
+  .in {
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+  }
+
+  .in input {
+    height: 60px;
+    width: 28%;
+    border-radius: 5px;
+    margin-right: 2px;
+    background: none;
+    color: white;
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5));
+  }
+
+  #b {
+    padding-top: 2.5%;
+  }
+
+  .tex {
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    width: 60%;
+    text-align-last: center;
+  }
+
+  .se {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+  }
+
+  h1 {
+    font-size: 40px;
+    font-weight: 900;
+  }
+
+  .op {
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    height: 100vh;
+  }
+
+  #dr {
+    width: 80%;
+    height: 10%;
+    background-color: black;
+    margin-top: 1%;
+  }
+  .fot{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+    
+  }
+  .fot div{
+    padding: auto;
+    padding: 3%;
+    display: flex;
+    flex-direction: column;
+  }
+  .fot div a{
+    color: white;
+    padding-bottom: 5%;
+  }
+  .log{
+    height: 84vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+  }
+ .log form div {
+  height: 50px;
+  margin-top: 6%;
+ }
+footer div div{
+  margin-bottom: 8%;
+  
+}
+footer div div a{
+  color: rgba(255, 255, 255, 0.406);
+  text-decoration: none;
+}
+#in{
+  border-radius: 5px;
+  width: 80%; 
+  height: 100%;
+   background: rgb(65, 65, 65); 
+   color: white; 
+   border:none;
+   border-bottom: 2px solid rgb(255, 186, 11);
+}
+#in1{
+  border-radius: 5px;
+  width: 80%; 
+  height: 100%;
+   background: rgb(65, 65, 65); 
+   color: white; 
+   border:none;
+   border-bottom: 2px solid rgb(255, 186, 11);
+   
+}
